@@ -1,0 +1,10 @@
+paper
+scissors
+paper
+scissors
+paper
+scissors
+paper
+scissors
+paper
+scissors
